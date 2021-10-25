@@ -1,41 +1,39 @@
 ---
-title: About Us
-subtitle: This is a short page about us and our work.
-image: images/about.jpg
-image_alt: A man taking a picture
+title: About
+subtitle:
+image:
+image_alt: Gustavo Perez
 seo:
-  title: About Us
-  description: This is the about us page
-  extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
-    - name: 'og:title'
-      value: About Us
-      keyName: property
-    - name: 'og:description'
-      value: This is the about us page
-      keyName: property
-    - name: 'og:image'
-      value: images/about.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: About Us
-    - name: 'twitter:description'
-      value: This is the about us page
-    - name: 'twitter:image'
-      value: images/about.jpg
-      relativeUrl: true
+    title: About
+    description: Esta es la página sobre nosotros
+    extra:
+        - name: 'og:type'
+          value: website
+          keyName: property
+        - name: 'og:title'
+          value: About Us
+          keyName: property
+        - name: 'og:description'
+          value: Esta es la página sobre nosotros
+          keyName: property
+        - name: 'og:image'
+          value: images/about.jpg
+          keyName: property
+          relativeUrl: true
+        - name: 'twitter:card'
+          value: summary_large_image
+        - name: 'twitter:title'
+          value: About Us
+        - name: 'twitter:description'
+          value: Esta es la página sobre nosotros
+        - name: 'twitter:image'
+          value: images/about.jpg
+          relativeUrl: true
 layout: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+Hola, mi nombre es Gustavo Perez
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+Soy **desarrollador web** con más de 4 años de experiencia profesional, me dedico a la creación y mantenimiento de **aplicaciones web** orientado principalmente como **backend developer** en tecnologías como PHP, Python y Node.js. En mi camino como desarrollador y como entusiasta de la tecnología en constante aprendizaje me he adaptado a las **necesidades de cada proyecto** y aunque mi fuerte principal sea el desarrollo backend esto no me limita y he desempeñado también el rol de **frontend developer** con las principales tecnologías del lado del cliente y frameworks populares como React o Vue.
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
-
-*Thank You for reading!*
+_¡Gracias por leer!_
