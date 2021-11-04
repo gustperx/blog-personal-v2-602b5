@@ -38,23 +38,23 @@ sections:
                 Entiendo que este formulario está almacenando mi información enviada para que puedan ser contactados.
       submit_label: Enviar mensaje
 seo:
-    title: Contacto
-    description: Página de contacto - Muchas gracias por su interés en trabajar juntos.
+    title: Contacto - Gustavo Perez - Full Stack Developer
+    description: Contacto - Gustavo Perez - Full Stack Developer
     extra:
         - name: 'og:type'
           value: website
           keyName: property
         - name: 'og:title'
-          value: Contact
+          value: Contacto - Gustavo Perez - Full Stack Developer
           keyName: property
         - name: 'og:description'
-          value: Página de contacto - Muchas gracias por su interés en trabajar juntos.
+          value: Contacto - Gustavo Perez - Full Stack Developer
           keyName: property
         - name: 'twitter:card'
           value: summary
         - name: 'twitter:title'
           value: Contact
         - name: 'twitter:description'
-          value: Página de contacto - Muchas gracias por su interés en trabajar juntos.
+          value: Contacto - Gustavo Perez - Full Stack Developer
 layout: advanced
 ---

@@ -1,10 +1,10 @@
 {
-    "title": "Gustavo Perez - Desarrollador web",
+    "title": "Gustavo Perez - Full Stack Developer",
     "path_prefix": "/",
     "color_scheme": "dark",
     "accent_color": "blue",
     "header": {
-        "title": "Gustperx",
+        "title": "Gustavo Perez",
         "has_nav": true,
         "nav_links": [
             {
@@ -35,7 +35,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Gustperx. All rights reserved.",
+        "content": "&copy; Gustavo Perez. All rights reserved.",
         "has_social": true,
         "social_links": [
             {

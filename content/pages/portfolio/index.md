@@ -1,10 +1,10 @@
 ---
 title: Portfolio
-subtitle: En construcción.
-layout_style: mosaic
+subtitle:
+layout_style: normal
 seo:
-    title: Portfolio
-    description: This is the portfolio page
+    title: Portfolio - Gustavo Perez - Full Stack Developer
+    description: Portfolio - Gustavo Perez - Full Stack Developer
     extra:
         - name: 'og:type'
           value: website
@@ -13,10 +13,10 @@ seo:
           value: Portfolio
           keyName: property
         - name: 'og:description'
-          value: This is the portfolio page
+          value: Portfolio - Gustavo Perez - Full Stack Developer
           keyName: property
         - name: 'og:image'
-          value: images/1.jpg
+          value: images/portfolio.jpg
           keyName: property
           relativeUrl: true
         - name: 'twitter:card'
@@ -24,9 +24,9 @@ seo:
         - name: 'twitter:title'
           value: Portfolio
         - name: 'twitter:description'
-          value: This is the portfolio page
+          value: Portfolio - Gustavo Perez - Full Stack Developer
         - name: 'twitter:image'
-          value: images/1.jpg
+          value: images/portfolio.jpg
           relativeUrl: true
 layout: portfolio
 ---
