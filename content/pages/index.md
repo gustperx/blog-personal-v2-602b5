@@ -7,10 +7,10 @@ sections:
       title: 'Hola, mi nombre es Gustavo Perez.'
       content: >-
           Soy **desarrollador full-stack** con más de 4 años de experiencia, me dedico crear y mantener aplicaciones web principalmente como **backend developer** en tecnologías como PHP, Node.js y actualmente dando mis primeros pasos con Python. También me desempeño como **frontend developer** con HTML, CSS y Javascript así mismo frameworks y librerías como Vue.js, React, Tailwind CSS y Bootstrap.
-      actions:
-          - label: Hablemos
-            url: /contact
-            style: button
+      #actions:
+      #    - label: Hablemos
+      #      url: /contact
+      #      style: button
     - section_id: latest-projects
       type: section_portfolio
       layout_style: none
