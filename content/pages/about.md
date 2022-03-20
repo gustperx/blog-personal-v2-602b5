@@ -1,7 +1,7 @@
 ---
 title: Gustavo Perez
 subtitle: Full Stack Developer
-image: images/about_alt.png
+image: https://res.cloudinary.com/dpfdgvz5b/image/upload/v1645481860/me/wqhrzgamalb9kl7nwifu.png
 image_alt: Gustavo Perez
 seo:
     title: About - Gustavo Perez - Full Stack Developer
@@ -17,7 +17,7 @@ seo:
           value: Gustavo Perez - Full Stack Developer
           keyName: property
         - name: 'og:image'
-          value: images/about.jpg
+          value: https://res.cloudinary.com/dpfdgvz5b/image/upload/v1645481860/me/wqhrzgamalb9kl7nwifu.png
           keyName: property
           relativeUrl: true
         - name: 'twitter:card'
@@ -27,17 +27,15 @@ seo:
         - name: 'twitter:description'
           value: Gustavo Perez - Full Stack Developer
         - name: 'twitter:image'
-          value: images/about.jpg
+          value: https://res.cloudinary.com/dpfdgvz5b/image/upload/v1645481860/me/wqhrzgamalb9kl7nwifu.png
           relativeUrl: true
 layout: page
 ---
 
-Hola, mi nombre es Gustavo Perez
+Hello, my name is Gustavo Perez
 
-Soy desarrollador full-stack con más de 4 años de experiencia, me dedico crear y mantener aplicaciones web principalmente como backend developer en tecnologías como PHP, Node.js y actualmente dando mis primeros pasos con Python. También me desempeño como frontend developer con HTML, CSS y Javascript así mismo frameworks y librerías como Vue.js, React, Tailwind CSS y Bootstrap.
+I am a full-stack developer with more than 4 years of experience, I am dedicated to create and maintain web applications mainly as a backend developer in technologies such as PHP, Node.js and currently taking my first steps with Python. I also work as a frontend developer with HTML, CSS and Javascript as well as frameworks and libraries like Vue.js, React, Tailwind CSS and Bootstrap.
 
-Me apasiona la tecnología, el aprendizaje continuo, la gestión de proyectos, el liderazgo de equipos y convertir ideas en productos funcionales.
+I am passionate about technology, continuous learning, project management, team leadership and turning ideas into functional products.
 
-Con el uso de metodologías ágiles, mi experiencia en gestión de proyectos, desarrollo de software y mi background académico en ingeniería de sistemas te puedo ayudar a convertir tus ideas en aplicaciones funcionales con alto valor, cumpla con los objetivos y resultados esperados en el menor tiempo posible.
-
-_¡Gracias por leer!_
+With the use of agile methodologies, my experience in project management, software development and my academic background in systems engineering I can help you turn your ideas into functional applications with high value, meet the objectives and expected results in the shortest possible time.

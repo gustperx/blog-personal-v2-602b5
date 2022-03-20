@@ -4,24 +4,24 @@ hide_title: true
 sections:
     - section_id: hero
       type: section_hero
-      title: 'Hola, mi nombre es Gustavo Perez.'
+      title: 'Hello, my name is Gustavo Perez'
       content: >-
-          Soy **desarrollador full-stack** con más de 4 años de experiencia, me dedico crear y mantener aplicaciones web principalmente como **backend developer** en tecnologías como PHP, Node.js y actualmente dando mis primeros pasos con Python. También me desempeño como **frontend developer** con HTML, CSS y Javascript así mismo frameworks y librerías como Vue.js, React, Tailwind CSS y Bootstrap.
-      #actions:
-      #    - label: Hablemos
-      #      url: /contact
-      #      style: button
+          I am a **full-stack developer** with more than 4 years of experience, I create and maintain web applications mainly as a backend developer in technologies such as PHP (Laravel / CakePHP / Symfony) and Node.js. I also work as a frontend developer with HTML, CSS and Javascript as well as frameworks and libraries like Vue.js, React, Tailwind CSS and Bootstrap.
+      actions:
+          - label: Contact
+            url: https://www.linkedin.com/in/gustperx
+            style: button
     - section_id: latest-projects
       type: section_portfolio
       layout_style: none
-      title: Proyectos destacados
+      title: Featured projects
       subtitle:
       projects_number: 3
       view_all_label: View All
       view_all_url: portfolio
     - section_id: latest-posts
       type: section_posts
-      title: Lo último del Blog
+      title: Blog
       subtitle:
       posts_number: 3
       col_number: three
